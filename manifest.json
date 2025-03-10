@@ -6,7 +6,9 @@
     "author": "Mohammed Azab", 
     
     "icons": {
-        "128": "icons/cms.svg"
+	"16":" /icons/cms.svg"
+	"48":" /icons/cms.svg"
+        "128": "/icons/cms.svg"
     },
 
     "content_scripts": [
