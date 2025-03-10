@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "GIU Berlin CMS Enhancer",
+    "version": "1.0",
+    "description": "Enhances the GIU Berlin CMS by adding a download button to videos and renaming downloaded content.",
+    "author": "Mohammed Azab", 
+    
+    "icons": {
+        "128": "icons/cms.svg"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://cms.giu-berlin.de/apps/student/Course*"],
+            "js": ["content.js"]
+        }
+    ],
+
+    "permissions": [
+        "downloads",
+        "activeTab"
+    ]
+}
