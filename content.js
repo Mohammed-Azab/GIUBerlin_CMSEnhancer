@@ -9,5 +9,4 @@ cards.forEach(card => {
 
     name = name.trim() + '.' + fileExtension;
     button.setAttribute('download', name);
-    button.style.display = 'block';  // Use block for visibility if needed
 });
