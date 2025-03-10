@@ -3,12 +3,12 @@
     "name": "GIU Berlin CMS Enhancer",
     "version": "1.0",
     "description": "Enhances the GIU Berlin CMS by adding a download button to videos and renaming downloaded content.",
-    "author": "Mohammed Azab", 
+    "author": "Mohammed Azab",
     
     "icons": {
-	"16":" /icons/cms.svg"
-	"48":" /icons/cms.svg"
-        "128": "/icons/cms.svg"
+        "16": "icons/cms.svg",
+        "48": "icons/cms.svg",
+        "128": "icons/cms.svg"
     },
 
     "content_scripts": [
