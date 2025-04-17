@@ -7,22 +7,12 @@ GIU Berlin CMS Enhancer is a lightweight Chrome extension designed to improve th
 - **Download Videos**: Adds a download button to videos on GIU CMS.
 - **Automatic File Renaming**: Renames downloaded files for better organization.
 
-## Installation Guide
-### Method 1: Using Git
-1. Clone the repository using the following command:
-   ```bash
-   git clone https://github.com/Mohammed-Azab/GIUBerlin_CMSEnhancer
-   ```
-2. Alternatively, download the project as a ZIP file and extract it.
-
-### Method 2: Loading the Extension in Chrome
-1. Open **Google Chrome** and navigate to `chrome://extensions/`.
-2. Enable **Developer Mode** (toggle in the top-right corner).
-3. Click on **Load Unpacked**.
-4. Select the extracted **GIUBerlin_CMSEnhancer** folder.
-
 ## Usage
-Once installed, simply open the GIU CMS platform, and a **Download** button will appear next to the videos.
+
+## 🚀 Published on Chrome Web Store
+
+This extension is now live on the Chrome Web Store!  
+[Install it here](https://chromewebstore.google.com/detail/jnadedneomddbbleclfldipjclbbngjm?utm_source=item-share-cb)
 
 ## License
 
